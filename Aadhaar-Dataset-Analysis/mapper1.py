@@ -1,3 +1,5 @@
+#Count the no. of identities in each state.
+
 #!/usr/bin/python
 
 import sys
