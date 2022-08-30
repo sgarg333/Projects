@@ -1,0 +1,26 @@
+<annotation>
+	<folder>output</folder>
+	<filename>ear_501_M_L_15109053_1.tiff</filename>
+	<path>/home/titu/Downloads/output/ear_501_M_L_15109053_1.tiff</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>746</xmin>
+			<ymin>431</ymin>
+			<xmax>856</xmax>
+			<ymax>617</ymax>
+		</bndbox>
+	</object>
+</annotation>
